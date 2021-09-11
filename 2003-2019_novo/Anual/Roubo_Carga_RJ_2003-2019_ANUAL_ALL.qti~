@@ -1,0 +1,563 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+Tabela1	30	222	20/02/20 14:30
+geometry	maximized
+header	1[X]	AISP1[Y]	AISP2[Y]	AISP3[Y]	AISP4[Y]	AISP5[Y]	AISP6[Y]	AISP7[Y]	AISP8[Y]	AISP9[Y]	AISP10[Y]	AISP11[Y]	AISP12[Y]	AISP13[Y]	AISP14[Y]	AISP15[Y]	AISP16[Y]	AISP17[Y]	AISP18[Y]	AISP19[Y]	AISP20[Y]	AISP21[Y]	AISP22[Y]	AISP23[Y]	AISP24[Y]	AISP25[Y]	AISP26[Y]	AISP27[Y]	AISP28[Y]	AISP29[Y]	AISP30[Y]	AISP31[Y]	AISP32[Y]	AISP33[Y]	AISP34[Y]	AISP35[Y]	AISP36[Y]	AISP37[Y]	AISP38[Y]	AISP39[Y]	AISP40[Y]	AISP41[Y]	CISP1[Y]	CISP2[Y]	CISP3[Y]	CISP4[Y]	CISP5[Y]	CISP6[Y]	CISP7[Y]	CISP8[Y]	CISP9[Y]	CISP10[Y]	CISP11[Y]	CISP12[Y]	CISP13[Y]	CISP14[Y]	CISP15[Y]	CISP16[Y]	CISP17[Y]	CISP18[Y]	CISP19[Y]	CISP20[Y]	CISP21[Y]	CISP22[Y]	CISP23[Y]	CISP24[Y]	CISP25[Y]	CISP26[Y]	CISP27[Y]	CISP28[Y]	CISP29[Y]	CISP30[Y]	CISP31[Y]	CISP32[Y]	CISP33[Y]	CISP34[Y]	CISP35[Y]	CISP36[Y]	CISP37[Y]	CISP38[Y]	CISP39[Y]	CISP40[Y]	CISP41[Y]	CISP42[Y]	CISP43[Y]	CISP44[Y]	CISP45[Y]	CISP46[Y]	CISP47[Y]	CISP48[Y]	CISP49[Y]	CISP50[Y]	CISP51[Y]	CISP52[Y]	CISP53[Y]	CISP54[Y]	CISP55[Y]	CISP56[Y]	CISP57[Y]	CISP58[Y]	CISP59[Y]	CISP60[Y]	CISP61[Y]	CISP62[Y]	CISP63[Y]	CISP64[Y]	CISP65[Y]	CISP66[Y]	CISP67[Y]	CISP68[Y]	CISP69[Y]	CISP70[Y]	CISP71[Y]	CISP72[Y]	CISP73[Y]	CISP74[Y]	CISP75[Y]	CISP76[Y]	CISP77[Y]	CISP78[Y]	CISP79[Y]	CISP80[Y]	CISP81[Y]	CISP82[Y]	CISP83[Y]	CISP84[Y]	CISP85[Y]	CISP86[Y]	CISP87[Y]	CISP88[Y]	CISP89[Y]	CISP90[Y]	CISP91[Y]	CISP92[Y]	CISP93[Y]	CISP94[Y]	CISP95[Y]	CISP96[Y]	CISP97[Y]	CISP98[Y]	CISP99[Y]	CISP100[Y]	CISP101[Y]	CISP102[Y]	CISP103[Y]	CISP104[Y]	CISP105[Y]	CISP106[Y]	CISP107[Y]	CISP108[Y]	CISP109[Y]	CISP110[Y]	CISP111[Y]	CISP112[Y]	CISP113[Y]	CISP114[Y]	CISP115[Y]	CISP116[Y]	CISP117[Y]	CISP118[Y]	CISP119[Y]	CISP120[Y]	CISP121[Y]	CISP122[Y]	CISP123[Y]	CISP124[Y]	CISP125[Y]	CISP126[Y]	CISP127[Y]	CISP128[Y]	CISP129[Y]	CISP130[Y]	CISP131[Y]	CISP132[Y]	CISP133[Y]	CISP134[Y]	CISP135[Y]	CISP136[Y]	CISP137[Y]	CISP138[Y]	CISP139[Y]	CISP140[Y]	CISP141[Y]	CISP142[Y]	CISP143[Y]	CISP144[Y]	CISP145[Y]	CISP146[Y]	CISP147[Y]	CISP148[Y]	CISP149[Y]	CISP150[Y]	CISP151[Y]	CISP152[Y]	CISP153[Y]	CISP154[Y]	CISP155[Y]	CISP156[Y]	CISP157[Y]	CISP158[Y]	CISP159[Y]	CISP160[Y]	CISP161[Y]	CISP162[Y]	CISP163[Y]	CISP164[Y]	CISP165[Y]	CISP166[Y]	CISP167[Y]	CISP168[Y]	BaixadaFluminense[Y]	Capital[Y]	GrandeNiteroi[Y]	Interior[Y]	RISP1[Y]	RISP2[Y]	RISP3[Y]	RISP4[Y]	RISP5[Y]	RISP6[Y]	RISP7[Y]	RJ[Y]
+ColWidth	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Comments		AISP1	AISP2	AISP3	AISP4	AISP5	AISP6	AISP7	AISP8	AISP9	AISP10	AISP11	AISP12	AISP13	AISP14	AISP15	AISP16	AISP17	AISP18	AISP19	AISP20	AISP21	AISP22	AISP23	AISP24	AISP25	AISP26	AISP27	AISP28	AISP29	AISP30	AISP31	AISP32	AISP33	AISP34	AISP35	AISP36	AISP37	AISP38	AISP39	AISP40	AISP41	CISP1	CISP2	CISP3	CISP4	CISP5	CISP6	CISP7	CISP8	CISP9	CISP10	CISP11	CISP12	CISP13	CISP14	CISP15	CISP16	CISP17	CISP18	CISP19	CISP20	CISP21	CISP22	CISP23	CISP24	CISP25	CISP26	CISP27	CISP28	CISP29	CISP30	CISP31	CISP32	CISP33	CISP34	CISP35	CISP36	CISP37	CISP38	CISP39	CISP40	CISP41	CISP42	CISP43	CISP44	CISP45	CISP46	CISP47	CISP48	CISP49	CISP50	CISP51	CISP52	CISP53	CISP54	CISP55	CISP56	CISP57	CISP58	CISP59	CISP60	CISP61	CISP62	CISP63	CISP64	CISP65	CISP66	CISP67	CISP68	CISP69	CISP70	CISP71	CISP72	CISP73	CISP74	CISP75	CISP76	CISP77	CISP78	CISP79	CISP80	CISP81	CISP82	CISP83	CISP84	CISP85	CISP86	CISP87	CISP88	CISP89	CISP90	CISP91	CISP92	CISP93	CISP94	CISP95	CISP96	CISP97	CISP98	CISP99	CISP100	CISP101	CISP102	CISP103	CISP104	CISP105	CISP106	CISP107	CISP108	CISP109	CISP110	CISP111	CISP112	CISP113	CISP114	CISP115	CISP116	CISP117	CISP118	CISP119	CISP120	CISP121	CISP122	CISP123	CISP124	CISP125	CISP126	CISP127	CISP128	CISP129	CISP130	CISP131	CISP132	CISP133	CISP134	CISP135	CISP136	CISP137	CISP138	CISP139	CISP140	CISP141	CISP142	CISP143	CISP144	CISP145	CISP146	CISP147	CISP148	CISP149	CISP150	CISP151	CISP152	CISP153	CISP154	CISP155	CISP156	CISP157	CISP158	CISP159	CISP160	CISP161	CISP162	CISP163	CISP164	CISP165	CISP166	CISP167	CISP168	BaixadaFluminense	Capital	GrandeNiteroi	Interior	RISP1	RISP2	RISP3	RISP4	RISP5	RISP6	RISP7	RJ	
+WindowLabel	/media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP1.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP2.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP3.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP4.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP5.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP6.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP7.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP8.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP9.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP10.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP11.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP12.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP13.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP14.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP15.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP16.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP17.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP18.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP19.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP20.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP21.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP22.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP23.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP24.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP25.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP26.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP27.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP28.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP29.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP30.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP31.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP32.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP33.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP34.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP35.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP36.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP37.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP38.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP39.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP40.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP41.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP1.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP2.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP3.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP4.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP5.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP6.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP7.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP8.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP9.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP10.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP11.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP12.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP13.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP14.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP15.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP16.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP17.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP18.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP19.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP20.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP21.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP22.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP23.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP24.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP25.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP26.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP27.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP28.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP29.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP30.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP31.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP32.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP33.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP34.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP35.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP36.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP37.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP38.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP39.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP40.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP41.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP42.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP43.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP44.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP45.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP46.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP47.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP48.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP49.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP50.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP51.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP52.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP53.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP54.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP55.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP56.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP57.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP58.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP59.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP60.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP61.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP62.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP63.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP64.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP65.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP66.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP67.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP68.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP69.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP70.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP71.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP72.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP73.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP74.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP75.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP76.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP77.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP78.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP79.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP80.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP81.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP82.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP83.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP84.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP85.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP86.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP87.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP88.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP89.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP90.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP91.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP92.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP93.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP94.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP95.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP96.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP97.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP98.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP99.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP100.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP101.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP102.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP103.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP104.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP105.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP106.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP107.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP108.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP109.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP110.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP111.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP112.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP113.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP114.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP115.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP116.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP117.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP118.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP119.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP120.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP121.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP122.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP123.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP124.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP125.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP126.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP127.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP128.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP129.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP130.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP131.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP132.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP133.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP134.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP135.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP136.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP137.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP138.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP139.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP140.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP141.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP142.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP143.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP144.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP145.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP146.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP147.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP148.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP149.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP150.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP151.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP152.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP153.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP154.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP155.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP156.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP157.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP158.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP159.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP160.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP161.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP162.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP163.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP164.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP165.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP166.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP167.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_CISP168.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_REGIAO_BaixadaFluminense.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_REGIAO_Capital.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_REGIAO_GrandeNiteroi.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_REGIAO_Interior.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP1.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP2.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP3.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP4.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP5.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP6.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP7.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RJ.dat	0
+<data>
+0	2003	75	18	489	116	82	107	76	29	432	65	11	81	22	241	291	386	92	99	4	319	53	188	6	130	34	26	100	46	4	8	34	62	0	66	134	10	14	43	80	0	0	43	0	0	33	28	68	7	0	10	8	0	3	1	2	4	17	116	28	42	37	188	154	130	75	123	0	48	36	40	44	14	84	65	162	104	100	92	232	151	113	15	0	0	161	0	0	0	48	0	5	20	129	27	64	57	28	22	23	205	50	8	28	0	79	39	12	0	0	0	0	100	33	11	25	7	33	5	24	5	0	0	14	0	0	0	0	0	3	13	20	0	0	19	41	7	0	0	1	6	1	0	0	0	1	20	6	2	31	21	7	1	3	0	0	0	0	0	9	17	15	18	9	38	4	9	8	1	7	3	0	0	0	0	21	1	2	0	0	0	0	1	0	4	0	1	6	0	0	0	0	3	0	0	1	1	0	1	2	2	0	0	0	0	0	1	4	0	2	844	2578	157	494	1585	986	847	325	137	105	88	4073
+1	2004	69	15	723	211	89	119	81	44	581	60	12	52	29	191	412	406	64	79	3	313	97	349	7	91	21	28	92	34	5	15	10	67	15	43	106	5	28	55	93	0	0	25	0	0	64	29	56	13	0	11	4	0	3	0	2	5	10	211	35	31	53	349	197	136	89	176	0	54	38	46	77	6	65	80	105	92	92	64	209	224	142	14	0	1	322	0	0	0	34	0	6	21	123	20	88	28	31	26	25	296	49	10	57	2	97	36	7	0	0	0	0	78	37	12	25	7	23	3	12	3	0	1	10	0	0	0	0	0	12	22	22	0	0	10	46	1	0	1	0	6	2	0	0	0	0	20	8	3	38	14	15	0	3	0	0	0	0	0	6	21	6	13	5	43	4	3	2	3	6	3	0	0	0	0	27	4	1	0	0	0	0	4	0	4	1	0	12	1	0	0	0	5	1	2	1	0	0	0	0	1	0	0	0	0	0	7	8	0	0	956	3130	133	495	2084	1046	956	260	137	121	110	4714
+2	2005	58	21	581	115	105	112	88	25	664	58	3	63	37	151	529	447	26	99	8	300	127	426	12	66	18	21	65	17	2	10	21	53	3	44	86	2	26	34	76	23	0	39	0	0	66	37	50	8	0	14	7	0	6	2	7	5	21	115	25	39	48	426	202	87	89	208	4	112	45	50	89	1	76	59	91	68	65	26	245	247	121	23	0	8	193	0	0	0	32	0	8	9	86	31	116	14	27	31	32	304	80	10	135	3	127	33	11	0	0	0	0	59	41	17	22	8	22	5	23	3	0	3	7	0	0	0	0	0	5	23	13	2	0	3	45	3	1	0	0	3	1	1	0	0	1	17	4	6	22	6	9	0	0	0	0	0	0	0	5	12	10	17	4	27	3	3	7	0	5	0	0	0	0	0	16	1	1	0	0	0	0	2	0	0	2	1	6	0	0	0	0	2	0	0	1	0	0	0	0	5	0	0	0	0	0	1	2	0	1	1089	3024	151	358	1948	1076	1089	255	104	82	68	4622
+3	2006	37	20	534	144	95	203	95	59	793	55	17	58	32	224	368	511	30	59	8	153	107	330	13	52	31	23	72	29	3	10	26	71	5	21	85	9	17	33	69	65	0	72	0	0	23	32	33	4	0	11	9	0	6	2	4	9	26	144	41	93	69	330	227	97	69	175	44	104	26	55	41	39	49	69	116	61	72	30	284	355	212	10	0	8	149	0	0	0	20	0	5	8	81	15	65	14	21	9	27	282	37	6	43	5	107	17	4	0	0	0	0	48	51	6	31	7	28	7	8	2	0	4	9	0	0	0	0	0	6	15	22	0	1	6	40	3	1	2	0	2	1	0	0	0	1	19	4	4	18	11	9	1	1	0	0	0	0	0	12	23	11	13	0	46	3	5	7	1	12	3	0	0	0	0	28	2	2	2	0	0	0	5	2	3	0	0	26	0	0	0	0	14	0	1	0	1	0	0	0	3	0	0	0	0	0	2	3	0	2	766	3200	153	447	1957	1243	766	269	106	142	83	4566
+4	2007	67	43	603	153	144	261	191	45	771	38	15	63	59	276	249	332	18	75	8	176	94	242	14	36	40	22	33	26	6	6	10	81	10	38	82	4	12	36	47	46	0	118	0	0	26	59	57	10	0	30	13	0	7	1	6	8	10	153	42	117	102	242	158	96	81	172	66	102	34	55	48	82	64	58	136	41	33	18	174	334	198	11	0	6	188	0	0	0	14	0	8	4	94	26	46	6	14	28	14	195	15	13	26	4	94	31	7	0	0	0	0	53	117	14	54	6	36	7	11	0	0	4	5	0	0	0	0	0	8	8	14	0	0	8	18	10	0	0	1	4	4	0	0	0	1	17	5	3	21	12	5	0	2	0	0	0	0	0	8	16	11	22	10	46	1	18	8	4	3	1	0	0	0	0	26	1	2	0	0	0	0	2	0	5	1	0	17	0	0	0	0	9	0	1	1	1	1	1	0	2	0	0	0	0	0	0	9	1	1	639	3156	254	423	1944	1212	639	376	86	136	79	4472
+5	2008	49	61	264	46	74	120	155	55	506	27	12	62	58	137	252	287	13	75	10	178	96	175	12	34	28	21	19	14	8	13	29	80	1	17	47	4	16	30	58	29	0	54	0	0	20	58	41	8	0	35	26	0	8	2	3	9	29	46	14	66	40	175	109	50	66	41	24	41	19	46	23	9	56	54	74	56	19	13	178	274	103	19	0	2	83	0	0	0	15	0	5	2	93	35	29	9	9	26	15	194	17	8	33	3	96	12	5	0	0	0	0	31	101	17	31	6	27	7	12	4	0	4	8	0	0	0	0	0	5	11	6	0	0	5	8	13	1	0	0	5	3	0	0	0	1	19	2	3	24	3	12	0	0	0	0	0	0	0	10	6	10	20	4	41	7	5	6	0	14	0	1	0	0	0	28	0	2	1	0	0	0	4	0	8	0	0	20	3	0	0	0	10	2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	606	1993	217	356	1169	824	606	292	58	147	76	3172
+6	2009	40	50	119	52	64	66	149	58	388	36	12	85	38	101	245	264	18	26	8	93	143	125	11	46	32	15	17	18	4	3	33	79	4	28	34	4	5	28	59	50	0	47	0	0	17	38	31	9	0	33	17	0	7	1	4	7	33	52	6	42	18	125	113	20	28	33	13	46	24	31	25	5	24	33	63	55	17	18	151	212	50	2	0	4	25	0	0	0	20	0	2	13	60	6	50	10	6	14	7	209	15	3	18	1	143	22	6	0	0	0	0	18	102	24	18	5	49	8	8	1	0	4	15	0	0	0	0	0	8	4	8	2	0	6	14	10	0	0	1	1	4	1	0	0	0	11	4	2	17	9	2	0	1	0	0	0	0	0	11	11	4	21	3	38	2	4	12	2	9	1	8	0	0	0	31	0	4	0	0	0	0	7	0	4	0	1	17	2	0	0	0	9	0	0	0	0	0	2	1	1	0	0	0	0	0	3	1	0	0	605	1479	234	332	855	624	605	300	63	145	58	2650
+7	2010	46	49	123	31	134	69	153	46	281	28	14	56	56	138	281	190	17	15	13	102	133	115	18	51	41	11	10	11	0	14	11	105	7	24	44	8	8	13	78	75	0	118	0	0	16	56	36	10	0	28	21	0	10	3	8	10	11	31	16	40	13	115	81	30	17	39	10	29	14	21	29	2	12	40	96	70	10	17	109	166	22	3	0	8	27	0	0	0	15	0	14	10	48	12	75	10	24	12	6	236	19	14	12	2	133	18	6	0	0	0	0	28	112	16	19	6	34	7	4	1	0	2	8	0	0	0	0	0	7	4	4	5	0	5	14	2	0	0	0	4	2	0	0	0	0	11	0	1	7	5	10	1	3	0	0	0	0	0	9	6	7	11	9	47	3	7	17	1	27	4	11	0	0	0	30	4	4	0	0	0	0	2	0	0	0	3	11	0	0	0	0	8	1	1	0	0	1	0	3	3	0	0	0	0	0	4	3	0	0	666	1394	209	350	861	533	666	294	54	159	52	2619
+8	2011	10	23	104	55	64	66	300	27	125	20	4	61	11	147	421	190	17	24	16	175	156	105	18	43	62	11	39	21	4	10	13	101	5	24	88	4	11	12	125	71	290	41	0	0	10	21	12	7	0	16	7	0	11	5	8	10	11	44	9	32	30	105	91	27	23	26	11	47	9	18	39	21	19	41	94	117	29	17	99	226	67	5	2	19	17	0	0	0	21	0	3	3	86	16	70	13	26	22	25	375	25	11	10	3	156	15	8	1	0	0	3	62	183	36	66	15	31	1	11	0	0	3	15	0	0	0	0	0	5	7	13	0	0	3	15	0	0	0	0	3	6	0	0	0	0	8	3	0	6	6	7	1	2	0	0	0	0	0	14	9	12	21	4	43	12	12	17	4	26	1	7	0	2	0	11	1	1	0	0	0	0	3	0	2	0	0	13	0	2	0	0	1	2	1	0	2	0	0	0	2	0	0	0	0	0	4	1	0	0	889	1443	361	380	679	764	889	511	57	136	37	3073
+9	2012	0	26	122	96	59	36	364	29	147	30	7	59	0	228	482	301	10	30	7	215	196	78	8	75	36	9	40	22	4	10	26	47	6	38	50	3	19	10	102	135	494	25	0	0	11	17	16	6	0	21	5	0	6	1	4	4	15	72	8	21	15	78	111	16	33	35	15	80	18	23	27	35	13	80	148	135	31	10	190	379	79	17	11	9	23	0	0	0	25	0	11	11	91	20	102	17	51	30	23	390	50	17	25	11	196	21	7	10	0	0	3	37	221	42	87	14	23	5	14	0	0	5	12	0	0	0	0	0	2	13	8	0	0	13	25	2	1	0	0	1	5	1	0	0	1	6	3	1	5	4	8	0	1	0	0	0	0	0	10	7	3	11	5	20	4	11	10	1	11	0	0	0	0	0	12	1	1	0	0	0	0	0	1	2	1	3	14	0	1	0	0	4	0	0	1	0	1	0	1	0	0	0	0	0	0	2	4	0	0	1108	1843	423	282	743	1100	1108	509	77	83	36	3656
+10	2013	0	9	191	83	59	51	233	31	132	17	17	41	0	253	431	251	15	29	10	325	203	71	3	72	46	8	38	10	9	4	15	50	0	32	38	3	19	6	198	118	413	26	0	0	9	21	24	3	0	3	6	0	6	4	1	2	7	53	6	32	19	71	96	28	54	49	24	45	21	34	31	65	23	67	186	118	26	15	155	303	46	6	8	12	36	0	0	0	20	0	8	14	115	21	198	27	66	48	75	293	80	10	48	3	203	20	6	6	0	0	4	15	78	82	61	12	18	3	12	0	0	0	8	0	0	0	0	0	4	7	7	0	0	3	11	2	0	0	0	4	8	0	0	0	0	7	1	0	4	2	4	0	0	0	0	0	0	0	10	9	7	10	1	24	8	7	11	4	13	4	2	0	2	0	17	1	1	1	0	0	0	1	0	3	1	1	11	1	5	0	0	10	0	1	2	0	1	0	3	3	0	0	0	0	0	0	0	0	0	1261	1741	274	258	743	998	1261	358	46	93	35	3534
+11	2014	0	11	307	153	124	74	461	42	384	34	10	69	0	429	566	442	30	65	14	426	295	207	31	107	39	5	64	15	8	11	39	37	12	31	45	12	2	14	213	197	865	50	0	0	26	44	30	4	0	7	4	5	8	6	16	10	28	103	20	23	51	207	156	42	69	69	35	140	40	86	114	154	50	123	306	197	53	30	274	571	144	15	11	11	92	12	0	0	35	0	17	26	115	48	213	16	54	134	75	374	106	18	68	13	295	19	9	3	0	0	3	18	160	104	145	52	23	10	20	3	0	5	8	0	0	0	0	0	2	2	4	1	1	9	27	2	0	0	1	0	0	2	0	0	0	3	2	1	9	4	6	0	5	0	0	0	0	0	9	10	10	3	2	26	3	2	16	5	4	4	2	0	0	0	24	2	3	0	0	0	0	4	1	4	0	0	14	0	4	0	0	2	2	2	2	6	2	0	0	4	0	0	0	0	0	0	10	1	1	1638	3436	530	286	1393	2043	1638	614	63	99	40	5890
+12	2015	0	23	445	154	112	85	377	46	503	35	6	67	0	601	773	452	30	65	3	536	472	185	28	189	58	13	84	15	5	17	44	59	23	83	52	10	5	16	173	271	1110	31	0	0	24	52	19	5	0	13	10	11	2	1	12	5	20	126	9	24	61	185	176	41	75	73	34	141	44	129	106	268	40	187	414	271	67	30	257	701	224	25	24	17	222	19	0	0	53	0	34	27	144	67	173	51	75	149	101	566	121	18	68	24	472	44	23	16	0	0	4	35	135	63	137	42	33	3	16	3	0	0	12	0	0	0	0	0	2	3	5	4	0	10	27	1	0	0	1	1	1	0	0	0	0	11	2	0	10	6	12	0	5	0	0	0	0	0	7	4	4	14	1	29	6	7	28	0	12	10	3	0	0	0	24	2	5	0	0	0	0	1	0	3	0	2	19	0	2	0	0	2	0	0	4	3	0	0	0	5	0	0	0	0	0	7	16	0	0	2226	4195	444	360	1517	2678	2226	554	78	120	52	7225
+13	2016	0	21	427	177	129	59	786	52	684	34	14	76	0	697	1089	645	40	62	19	1070	645	281	16	333	61	16	83	39	11	10	56	103	16	84	90	7	12	19	343	229	1339	33	0	0	49	41	75	6	0	14	7	2	10	9	8	6	44	81	21	19	40	281	280	37	32	149	57	226	48	291	58	520	49	202	495	229	58	40	334	593	287	13	12	25	152	31	0	0	91	0	33	31	157	181	343	124	302	192	238	657	269	33	130	54	645	40	17	27	0	0	7	62	334	122	216	114	11	8	31	7	0	6	13	0	0	0	0	0	4	6	20	3	2	19	22	3	0	0	0	4	2	0	0	0	0	12	4	2	9	8	8	0	2	0	0	0	0	0	8	9	11	17	5	60	2	13	30	5	10	3	11	0	0	0	29	1	4	0	0	1	0	2	0	8	0	1	20	0	2	0	0	9	1	3	0	2	0	1	0	1	0	0	0	0	0	2	13	0	1	3564	4964	862	484	1814	3150	3564	1013	101	173	59	9874
+14	2017	0	30	687	161	64	145	1490	38	629	23	14	96	0	652	1167	846	46	70	21	719	493	337	28	227	60	26	64	13	6	12	46	62	18	74	166	6	13	18	487	189	1356	20	0	0	11	23	62	10	0	22	8	0	13	8	24	4	27	80	23	53	88	337	271	33	69	249	190	212	42	277	72	498	27	186	466	189	41	46	572	646	263	18	19	23	146	3	0	0	70	0	6	35	114	119	487	90	176	100	210	649	374	23	121	26	493	35	30	9	0	0	10	126	621	164	386	319	7	6	52	20	0	5	6	0	0	0	0	0	2	5	4	5	1	9	10	3	2	0	0	3	5	0	0	0	1	21	5	1	11	6	8	2	1	0	0	0	0	0	13	8	22	11	5	30	6	14	23	3	10	1	6	0	0	0	22	1	4	0	1	0	0	4	0	3	1	0	12	0	1	0	0	12	0	1	0	1	0	0	1	0	0	0	0	0	0	3	11	1	3	3167	5371	1586	475	2365	3006	3167	1812	67	112	70	10599
+15	2018	0	32	427	146	60	96	1701	43	272	34	13	251	0	645	919	838	34	156	10	368	412	284	14	166	66	23	85	15	6	14	54	57	41	60	328	13	5	20	609	178	687	9	0	0	17	18	82	16	0	16	16	1	6	4	3	10	30	64	9	28	59	284	329	21	70	144	64	108	53	109	36	241	55	222	423	178	52	34	500	338	127	48	24	33	128	9	0	0	53	0	19	37	45	57	609	44	102	39	125	571	213	35	100	13	412	31	19	10	0	0	13	296	520	268	560	353	15	20	152	49	0	5	10	0	0	0	0	0	5	4	10	4	0	5	17	6	0	1	1	0	1	0	0	0	0	22	1	0	11	9	4	2	8	0	0	0	0	0	19	3	10	16	2	31	12	9	20	3	7	3	1	0	0	0	23	3	9	0	0	0	0	4	0	4	1	1	15	0	1	0	0	7	2	1	0	1	0	0	3	6	0	0	0	0	0	5	35	1	0	2534	4018	1952	678	1941	2077	2534	2346	95	119	70	9182
+16	2019	0	27	298	97	45	69	1397	32	190	20	10	176	0	614	973	413	33	115	2	408	542	215	2	121	41	23	71	25	4	4	34	38	62	42	120	3	4	14	251	199	721	15	0	0	3	14	67	13	0	19	8	0	0	2	0	2	15	30	15	17	37	215	165	29	56	68	69	163	23	80	34	221	72	266	348	199	32	33	248	337	76	20	19	39	76	0	0	0	53	0	17	13	48	72	251	24	122	54	112	606	182	34	151	14	542	11	26	5	0	0	2	96	399	232	460	306	11	6	96	36	0	15	12	0	0	0	0	0	2	4	15	0	0	8	15	3	0	0	0	0	0	2	0	0	1	21	2	1	5	8	3	0	0	0	0	0	0	0	15	8	11	7	1	15	11	6	5	1	6	2	9	0	1	0	17	1	2	0	0	0	0	1	0	1	0	1	11	2	3	0	0	8	0	0	0	0	0	0	2	3	0	0	0	0	0	3	59	0	0	2337	3145	1573	400	1201	1944	2337	1734	111	77	51	7455
+</data>
+</table>
+<multiLayer>
+Gráfico1	1	1	20/02/20 14:31
+geometry	0	0	1920	663	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	17	6	1886	619
+<PageGeometry>0.00889121	0.0097561	0.986402	1.0065</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>0</Autoscaling>
+<ScaleFonts>0</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Noto Sans	10	50	0	0	0
+ScaleFont0	Arial	20	50	0	0	0
+ScaleFont1	Arial	20	50	0	0	0
+ScaleFont2	Arial	20	50	0	0	0
+ScaleFont3	Arial	20	50	0	0	0
+AxisFont0	Arial	20	50	0	0	0
+AxisFont1	Arial	20	50	0	0	0
+AxisFont2	Arial	20	50	0	0	0
+AxisFont3	Arial	20	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#232627	#232627	#232627	#232627
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Tabela1_1	Tabela1_RJ	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+curve	Tabela1_1	Tabela1_RISP7	0	1	#ff0000	0	3	11	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_RISP6	0	1	#00ff00	0	3	11	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_RISP5	0	1	#0000ff	0	3	11	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_RISP4	0	1	#00ffff	0	3	11	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_RISP3	0	1	#ff00ff	0	3	11	0	#ff00ff	#ff00ff	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_RISP2	0	1	#ffff00	0	3	11	0	#ffff00	#ffff00	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_RISP1	0	1	#808000	0	3	11	0	#808000	#808000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_Interior	0	1	#000080	0	3	11	0	#000080	#000080	0	#000000	14	1	2	0	0	29	1
+curve	Tabela1_1	Tabela1_GrandeNiteroi	0	1	#800080	0	3	11	0	#800080	#800080	0	#000000	14	1	2	0	0	29	1
+curve	Tabela1_1	Tabela1_Capital	0	1	#800000	0	3	11	0	#800000	#800000	0	#000000	14	1	2	0	0	29	1
+curve	Tabela1_1	Tabela1_BaixadaFluminense	0	1	#008000	0	3	11	0	#008000	#008000	0	#000000	14	1	2	0	0	29	1
+curve	Tabela1_1	Tabela1_CISP168	0	1	#008080	0	3	11	0	#008080	#008080	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP167	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP166	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP165	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP164	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP163	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP162	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP161	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP160	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP159	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP158	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP157	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP156	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP155	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP154	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP153	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP152	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP151	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP150	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP149	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP148	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP147	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP146	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP145	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP144	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP143	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP142	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP141	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP140	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP139	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP138	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP137	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP136	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP135	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP134	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP133	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP132	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP131	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP130	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP129	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP128	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP127	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP126	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP125	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP124	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP123	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP122	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP121	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP120	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP119	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP118	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP117	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP116	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP115	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP114	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP113	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP112	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP111	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP110	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP109	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP108	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP107	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP106	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP105	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP104	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP103	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP102	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP101	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP100	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP99	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP98	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP97	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP96	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP95	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP94	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP93	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP92	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP91	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP90	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP89	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP88	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP87	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP86	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP85	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP84	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP83	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP82	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP81	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP80	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP79	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP78	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP77	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP76	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP75	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP74	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP73	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP72	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP71	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP70	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP69	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP68	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP67	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP66	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP65	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP64	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP63	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP62	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP61	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP60	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP59	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP58	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP57	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP56	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP55	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP54	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP53	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP52	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP51	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP50	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP49	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP48	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP47	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP46	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP45	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP44	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP43	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP42	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP41	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP40	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP39	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP38	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP37	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP36	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP35	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP34	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP33	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP32	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP31	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP30	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP29	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP28	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP27	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP26	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP25	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP24	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP23	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP22	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP21	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP20	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP19	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP18	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP17	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP16	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP15	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP14	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP13	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP12	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP11	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP10	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP9	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP8	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP7	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP6	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP5	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP4	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP3	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP2	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_CISP1	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP41	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP40	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP39	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP38	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP37	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP36	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP35	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP34	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP33	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP32	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP31	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP30	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP29	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP28	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP27	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP26	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP25	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP24	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP23	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP22	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP21	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP20	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP19	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP18	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP17	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP16	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP15	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP14	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP13	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP12	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP11	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP10	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP9	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP8	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP7	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP6	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP5	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP4	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP3	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP2	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Tabela1_1	Tabela1_AISP1	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+scale	0	-2000	12000	0	8	5	0	0
+scale	1	-2000	12000	0	8	5	0	0
+scale	2	2002	2020	0	19	0	0	0
+scale	3	2002	2020	0	19	0	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	10
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>2002.0622119816</x>
+<y>12361.757105943</y>
+<right>2002.87624633431</right>
+<bottom>11102.9126213592</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>0</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+\l(6)%(6)
+\l(7)%(7)
+\l(8)%(8)
+\l(9)%(9)
+\l(10)%(10)
+\l(11)%(11)
+\l(12)%(12)
+\l(13)%(13)
+\l(14)%(14)
+\l(15)%(15)
+\l(16)%(16)
+\l(17)%(17)
+\l(18)%(18)
+\l(19)%(19)
+\l(20)%(20)
+\l(21)%(21)
+\l(22)%(22)
+\l(23)%(23)
+\l(24)%(24)
+\l(25)%(25)
+\l(26)%(26)
+\l(27)%(27)
+\l(28)%(28)
+\l(29)%(29)
+\l(30)%(30)
+\l(31)%(31)
+\l(32)%(32)
+\l(33)%(33)
+\l(34)%(34)
+\l(35)%(35)
+\l(36)%(36)
+\l(37)%(37)
+\l(38)%(38)
+\l(39)%(39)
+\l(40)%(40)
+\l(41)%(41)
+\l(42)%(42)
+\l(43)%(43)
+\l(44)%(44)
+\l(45)%(45)
+\l(46)%(46)
+\l(47)%(47)
+\l(48)%(48)
+\l(49)%(49)
+\l(50)%(50)
+\l(51)%(51)
+\l(52)%(52)
+\l(53)%(53)
+\l(54)%(54)
+\l(55)%(55)
+\l(56)%(56)
+\l(57)%(57)
+\l(58)%(58)
+\l(59)%(59)
+\l(60)%(60)
+\l(61)%(61)
+\l(62)%(62)
+\l(63)%(63)
+\l(64)%(64)
+\l(65)%(65)
+\l(66)%(66)
+\l(67)%(67)
+\l(68)%(68)
+\l(69)%(69)
+\l(70)%(70)
+\l(71)%(71)
+\l(72)%(72)
+\l(73)%(73)
+\l(74)%(74)
+\l(75)%(75)
+\l(76)%(76)
+\l(77)%(77)
+\l(78)%(78)
+\l(79)%(79)
+\l(80)%(80)
+\l(81)%(81)
+\l(82)%(82)
+\l(83)%(83)
+\l(84)%(84)
+\l(85)%(85)
+\l(86)%(86)
+\l(87)%(87)
+\l(88)%(88)
+\l(89)%(89)
+\l(90)%(90)
+\l(91)%(91)
+\l(92)%(92)
+\l(93)%(93)
+\l(94)%(94)
+\l(95)%(95)
+\l(96)%(96)
+\l(97)%(97)
+\l(98)%(98)
+\l(99)%(99)
+\l(100)%(100)
+\l(101)%(101)
+\l(102)%(102)
+\l(103)%(103)
+\l(104)%(104)
+\l(105)%(105)
+\l(106)%(106)
+\l(107)%(107)
+\l(108)%(108)
+\l(109)%(109)
+\l(110)%(110)
+\l(111)%(111)
+\l(112)%(112)
+\l(113)%(113)
+\l(114)%(114)
+\l(115)%(115)
+\l(116)%(116)
+\l(117)%(117)
+\l(118)%(118)
+\l(119)%(119)
+\l(120)%(120)
+\l(121)%(121)
+\l(122)%(122)
+\l(123)%(123)
+\l(124)%(124)
+\l(125)%(125)
+\l(126)%(126)
+\l(127)%(127)
+\l(128)%(128)
+\l(129)%(129)
+\l(130)%(130)
+\l(131)%(131)
+\l(132)%(132)
+\l(133)%(133)
+\l(134)%(134)
+\l(135)%(135)
+\l(136)%(136)
+\l(137)%(137)
+\l(138)%(138)
+\l(139)%(139)
+\l(140)%(140)
+\l(141)%(141)
+\l(142)%(142)
+\l(143)%(143)
+\l(144)%(144)
+\l(145)%(145)
+\l(146)%(146)
+\l(147)%(147)
+\l(148)%(148)
+\l(149)%(149)
+\l(150)%(150)
+\l(151)%(151)
+\l(152)%(152)
+\l(153)%(153)
+\l(154)%(154)
+\l(155)%(155)
+\l(156)%(156)
+\l(157)%(157)
+\l(158)%(158)
+\l(159)%(159)
+\l(160)%(160)
+\l(161)%(161)
+\l(162)%(162)
+\l(163)%(163)
+\l(164)%(164)
+\l(165)%(165)
+\l(166)%(166)
+\l(167)%(167)
+\l(168)%(168)
+\l(169)%(169)
+\l(170)%(170)
+\l(171)%(171)
+\l(172)%(172)
+\l(173)%(173)
+\l(174)%(174)
+\l(175)%(175)
+\l(176)%(176)
+\l(177)%(177)
+\l(178)%(178)
+\l(179)%(179)
+\l(180)%(180)
+\l(181)%(181)
+\l(182)%(182)
+\l(183)%(183)
+\l(184)%(184)
+\l(185)%(185)
+\l(186)%(186)
+\l(187)%(187)
+\l(188)%(188)
+\l(189)%(189)
+\l(190)%(190)
+\l(191)%(191)
+\l(192)%(192)
+\l(193)%(193)
+\l(194)%(194)
+\l(195)%(195)
+\l(196)%(196)
+\l(197)%(197)
+\l(198)%(198)
+\l(199)%(199)
+\l(200)%(200)
+\l(201)%(201)
+\l(202)%(202)
+\l(203)%(203)
+\l(204)%(204)
+\l(205)%(205)
+\l(206)%(206)
+\l(207)%(207)
+\l(208)%(208)
+\l(209)%(209)
+\l(210)%(210)
+\l(211)%(211)
+\l(212)%(212)
+\l(213)%(213)
+\l(214)%(214)
+\l(215)%(215)
+\l(216)%(216)
+\l(217)%(217)
+\l(218)%(218)
+\l(219)%(219)
+\l(220)%(220)
+\l(221)%(221)
+</Text>
+<Font>Arial	20	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>

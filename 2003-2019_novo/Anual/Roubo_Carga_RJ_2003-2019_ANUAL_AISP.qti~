@@ -1,0 +1,203 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+Table1	30	42	21/02/20 15:34
+geometry	maximized
+header	1[X]	AISP1[Y]	AISP2[Y]	AISP3[Y]	AISP4[Y]	AISP5[Y]	AISP6[Y]	AISP7[Y]	AISP8[Y]	AISP9[Y]	AISP10[Y]	AISP11[Y]	AISP12[Y]	AISP13[Y]	AISP14[Y]	AISP15[Y]	AISP16[Y]	AISP17[Y]	AISP18[Y]	AISP19[Y]	AISP20[Y]	AISP21[Y]	AISP22[Y]	AISP23[Y]	AISP24[Y]	AISP25[Y]	AISP26[Y]	AISP27[Y]	AISP28[Y]	AISP29[Y]	AISP30[Y]	AISP31[Y]	AISP32[Y]	AISP33[Y]	AISP34[Y]	AISP35[Y]	AISP36[Y]	AISP37[Y]	AISP38[Y]	AISP39[Y]	AISP40[Y]	AISP41[Y]
+ColWidth	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Comments		AISP1	AISP2	AISP3	AISP4	AISP5	AISP6	AISP7	AISP8	AISP9	AISP10	AISP11	AISP12	AISP13	AISP14	AISP15	AISP16	AISP17	AISP18	AISP19	AISP20	AISP21	AISP22	AISP23	AISP24	AISP25	AISP26	AISP27	AISP28	AISP29	AISP30	AISP31	AISP32	AISP33	AISP34	AISP35	AISP36	AISP37	AISP38	AISP39	AISP40	AISP41	
+WindowLabel	/media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP1.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP2.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP3.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP4.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP5.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP6.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP7.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP8.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP9.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP10.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP11.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP12.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP13.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP14.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP15.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP16.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP17.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP18.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP19.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP20.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP21.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP22.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP23.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP24.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP25.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP26.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP27.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP28.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP29.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP30.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP31.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP32.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP33.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP34.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP35.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP36.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP37.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP38.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP39.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP40.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_AISP41.dat	0
+<data>
+0	2003	75	18	489	116	82	107	76	29	432	65	11	81	22	241	291	386	92	99	4	319	53	188	6	130	34	26	100	46	4	8	34	62	0	66	134	10	14	43	80	0	0
+1	2004	69	15	723	211	89	119	81	44	581	60	12	52	29	191	412	406	64	79	3	313	97	349	7	91	21	28	92	34	5	15	10	67	15	43	106	5	28	55	93	0	0
+2	2005	58	21	581	115	105	112	88	25	664	58	3	63	37	151	529	447	26	99	8	300	127	426	12	66	18	21	65	17	2	10	21	53	3	44	86	2	26	34	76	23	0
+3	2006	37	20	534	144	95	203	95	59	793	55	17	58	32	224	368	511	30	59	8	153	107	330	13	52	31	23	72	29	3	10	26	71	5	21	85	9	17	33	69	65	0
+4	2007	67	43	603	153	144	261	191	45	771	38	15	63	59	276	249	332	18	75	8	176	94	242	14	36	40	22	33	26	6	6	10	81	10	38	82	4	12	36	47	46	0
+5	2008	49	61	264	46	74	120	155	55	506	27	12	62	58	137	252	287	13	75	10	178	96	175	12	34	28	21	19	14	8	13	29	80	1	17	47	4	16	30	58	29	0
+6	2009	40	50	119	52	64	66	149	58	388	36	12	85	38	101	245	264	18	26	8	93	143	125	11	46	32	15	17	18	4	3	33	79	4	28	34	4	5	28	59	50	0
+7	2010	46	49	123	31	134	69	153	46	281	28	14	56	56	138	281	190	17	15	13	102	133	115	18	51	41	11	10	11	0	14	11	105	7	24	44	8	8	13	78	75	0
+8	2011	10	23	104	55	64	66	300	27	125	20	4	61	11	147	421	190	17	24	16	175	156	105	18	43	62	11	39	21	4	10	13	101	5	24	88	4	11	12	125	71	290
+9	2012	0	26	122	96	59	36	364	29	147	30	7	59	0	228	482	301	10	30	7	215	196	78	8	75	36	9	40	22	4	10	26	47	6	38	50	3	19	10	102	135	494
+10	2013	0	9	191	83	59	51	233	31	132	17	17	41	0	253	431	251	15	29	10	325	203	71	3	72	46	8	38	10	9	4	15	50	0	32	38	3	19	6	198	118	413
+11	2014	0	11	307	153	124	74	461	42	384	34	10	69	0	429	566	442	30	65	14	426	295	207	31	107	39	5	64	15	8	11	39	37	12	31	45	12	2	14	213	197	865
+12	2015	0	23	445	154	112	85	377	46	503	35	6	67	0	601	773	452	30	65	3	536	472	185	28	189	58	13	84	15	5	17	44	59	23	83	52	10	5	16	173	271	1110
+13	2016	0	21	427	177	129	59	786	52	684	34	14	76	0	697	1089	645	40	62	19	1070	645	281	16	333	61	16	83	39	11	10	56	103	16	84	90	7	12	19	343	229	1339
+14	2017	0	30	687	161	64	145	1490	38	629	23	14	96	0	652	1167	846	46	70	21	719	493	337	28	227	60	26	64	13	6	12	46	62	18	74	166	6	13	18	487	189	1356
+15	2018	0	32	427	146	60	96	1701	43	272	34	13	251	0	645	919	838	34	156	10	368	412	284	14	166	66	23	85	15	6	14	54	57	41	60	328	13	5	20	609	178	687
+16	2019	0	27	298	97	45	69	1397	32	190	20	10	176	0	614	973	413	33	115	2	408	542	215	2	121	41	23	71	25	4	4	34	38	62	42	120	3	4	14	251	199	721
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	21/02/20 15:35
+geometry	0	0	1920	908	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	17	10	1886	855
+<PageGeometry>0.00889121	0.0116279	0.986402	0.994186</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>0</Autoscaling>
+<ScaleFonts>0</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Noto Sans	10	50	0	0	0
+ScaleFont0	Arial	20	50	0	0	0
+ScaleFont1	Arial	20	50	0	0	0
+ScaleFont2	Arial	20	50	0	0	0
+ScaleFont3	Arial	20	50	0	0	0
+AxisFont0	Arial	20	50	0	0	0
+AxisFont1	Arial	20	50	0	0	0
+AxisFont2	Arial	20	50	0	0	0
+AxisFont3	Arial	20	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#232627	#232627	#232627	#232627
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_1	Table1_AISP41	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP40	0	1	#ff0000	0	3	11	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP39	0	1	#00ff00	0	3	11	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP38	0	1	#0000ff	0	3	11	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP37	0	1	#00ffff	0	3	11	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP36	0	1	#ff00ff	0	3	11	0	#ff00ff	#ff00ff	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP35	0	1	#ffff00	0	3	11	0	#ffff00	#ffff00	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP34	0	1	#808000	0	3	11	0	#808000	#808000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP33	0	1	#000080	0	3	11	0	#000080	#000080	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP32	0	1	#800080	0	3	11	0	#800080	#800080	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP31	0	1	#800000	0	3	11	0	#800000	#800000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP30	0	1	#008000	0	3	11	0	#008000	#008000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP29	0	1	#008080	0	3	11	0	#008080	#008080	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP28	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP27	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP26	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP25	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP24	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP23	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP22	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP21	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP20	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP19	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP18	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP17	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP16	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP15	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP14	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP13	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP12	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP11	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP10	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP9	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP8	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP7	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP6	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP5	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP4	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP3	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP2	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_AISP1	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+scale	0	-500	2000	0	6	5	0	0
+scale	1	-500	2000	0	6	5	0	0
+scale	2	2000	2020	0	5	5	0	0
+scale	3	2000	2020	0	5	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	10
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>2000.5012531328</x>
+<y>1916.3879598662</y>
+<right>2000.97360703812</right>
+<bottom>1890.1464713715</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+\l(6)%(6)
+\l(7)%(7)
+\l(8)%(8)
+\l(9)%(9)
+\l(10)%(10)
+\l(11)%(11)
+\l(12)%(12)
+\l(13)%(13)
+\l(14)%(14)
+\l(15)%(15)
+\l(16)%(16)
+\l(17)%(17)
+\l(18)%(18)
+\l(19)%(19)
+\l(20)%(20)
+\l(21)%(21)
+\l(22)%(22)
+\l(23)%(23)
+\l(24)%(24)
+\l(25)%(25)
+\l(26)%(26)
+\l(27)%(27)
+\l(28)%(28)
+\l(29)%(29)
+\l(30)%(30)
+\l(31)%(31)
+\l(32)%(32)
+\l(33)%(33)
+\l(34)%(34)
+\l(35)%(35)
+\l(36)%(36)
+\l(37)%(37)
+\l(38)%(38)
+\l(39)%(39)
+\l(40)%(40)
+\l(41)%(41)
+</Text>
+<Font>Arial	20	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>

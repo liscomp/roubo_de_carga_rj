@@ -1,0 +1,135 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+Table1	30	8	21/02/20 15:40
+geometry	maximized	active
+header	1[X]	RISP1[Y]	RISP2[Y]	RISP3[Y]	RISP4[Y]	RISP5[Y]	RISP6[Y]	RISP7[Y]
+ColWidth	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0
+Comments		RISP1	RISP2	RISP3	RISP4	RISP5	RISP6	RISP7	
+WindowLabel	/media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP1.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP2.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP3.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP4.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP5.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP6.dat; /media/paulinho/TOSHIBA EXT/Pesquisa/Dados_da_pesquisa/RouboDeCargas_RJ/Anual/Roubo_Carga_RJ_2003-2019_ANUAL_RISP7.dat	0
+<data>
+0	2003	1585	986	847	325	137	105	88
+1	2004	2084	1046	956	260	137	121	110
+2	2005	1948	1076	1089	255	104	82	68
+3	2006	1957	1243	766	269	106	142	83
+4	2007	1944	1212	639	376	86	136	79
+5	2008	1169	824	606	292	58	147	76
+6	2009	855	624	605	300	63	145	58
+7	2010	861	533	666	294	54	159	52
+8	2011	679	764	889	511	57	136	37
+9	2012	743	1100	1108	509	77	83	36
+10	2013	743	998	1261	358	46	93	35
+11	2014	1393	2043	1638	614	63	99	40
+12	2015	1517	2678	2226	554	78	120	52
+13	2016	1814	3150	3564	1013	101	173	59
+14	2017	2365	3006	3167	1812	67	112	70
+15	2018	1941	2077	2534	2346	95	119	70
+16	2019	1201	1944	2337	1734	111	77	51
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	21/02/20 15:40
+geometry	0	0	1920	908	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	17	10	1886	855
+<PageGeometry>0.00885417	0.0112613	0.982292	0.962838</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>0</Autoscaling>
+<ScaleFonts>0</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		 	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Noto Sans	10	50	0	0	0
+ScaleFont0	Arial	20	50	0	0	0
+ScaleFont1	Arial	20	50	0	0	0
+ScaleFont2	Arial	20	50	0	0	0
+ScaleFont3	Arial	20	50	0	0	0
+AxisFont0	Arial	20	50	0	0	0
+AxisFont1	Arial	20	50	0	0	0
+AxisFont2	Arial	20	50	0	0	0
+AxisFont3	Arial	20	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#232627	#232627	#232627	#232627
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_1	Table1_RISP7	0	1	#000000	0	3	11	0	#000000	#000000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_RISP6	0	1	#ff0000	0	3	11	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_RISP5	0	1	#00ff00	0	3	11	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_RISP4	0	1	#0000ff	0	3	11	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_RISP3	0	1	#00ffff	0	3	11	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_RISP2	0	1	#ff00ff	0	3	11	0	#ff00ff	#ff00ff	0	#000000	14	1	2	0	0	29	0
+curve	Table1_1	Table1_RISP1	0	1	#ffff00	0	3	11	0	#ffff00	#ffff00	0	#000000	14	1	2	0	0	29	1
+scale	0	0	4000	0	9	5	0	0
+scale	1	0	4000	0	9	5	0	0
+scale	2	2000	2020	0	5	5	0	0
+scale	3	2000	2020	0	5	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3
+MinorTicks	3	3	3	3
+TicksLength	5	10
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>2000.5012531328</x>
+<y>3866.220735786</y>
+<right>2000.97417840376</right>
+<bottom>3824</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+\l(6)%(6)
+\l(7)%(7)
+</Text>
+<Font>Arial	20	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
